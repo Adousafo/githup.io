@@ -1,0 +1,52 @@
+.red,
+h1,
+h2 {
+    color: red;
+}
+
+h2 {
+    margin-left: 10px;
+    color: red;
+}
+
+#header1 {
+    background-color: ;
+    float: left;
+    padding-left: 50px;
+}
+
+img {
+    margin-left: 800px;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color: ;
+}
+
+#div0 {
+    padding: 20px;
+}
+
+#div1,
+#div2,
+#div3,
+#div4 {
+    margin-left: 50px;
+}
+
+hr {
+    margin: 0px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: red;
+    background-color: blue;
+}
+
+mark {
+    background-color: rgb(223, 213, 213);
+    color: red;
+}
